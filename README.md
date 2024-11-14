@@ -18,16 +18,16 @@ A simple Python tool that monitors and logs system health data (CPU, Memory, Dis
     ```bash
     pip install -r requirements.txt
     ```
-
 ## Usage
 
 To run the health checker:
 ```bash
 python system_health_checker.py
 
-
-## Screenshots:
+## Screenshots
 
 Here is a sample output of the system health checker:
-![System Health Plot](Screenshot.png) 
+![System Health Plot](Screenshot.png)
+
+
 
