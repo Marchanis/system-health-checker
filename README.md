@@ -25,7 +25,9 @@ To run the health checker:
 ```bash
 python system_health_checker.py
 
+
 ## Screenshots:
 
 Here is a sample output of the system health checker:
-![System Health Plot](screenshot.png)
+![System Health Plot](Screenshot.png) 
+
