@@ -24,13 +24,6 @@ A simple Python tool that monitors and logs system health data (CPU, Memory, Dis
 Here is a sample output of the system health checker:
 ![System Health Plot](Screenshot.png)
 
-## 🛠️ Usage
-
-To run the health checker:
-```bash
-python system_health_checker.py
-
-
 ## 🚀 Contribution
 
 We welcome contributions to make this project even better! If you'd like to contribute, please follow these steps:
@@ -57,5 +50,10 @@ We welcome contributions to make this project even better! If you'd like to cont
 Your help is appreciated! 🚀
 
 
+## 🛠️ Usage
+
+To run the health checker:
+```bash
+python system_health_checker.py
 
 
